@@ -10,10 +10,7 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
+ 
   - title: "Teaching"
     url: /teaching/    
     
@@ -24,10 +21,4 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: https://drive.google.com/file/d/1uBTU7bvWKlKKOYdXSy8Sloe7SW0rz4UO/view?usp=sharing
